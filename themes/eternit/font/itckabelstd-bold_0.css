@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'ITCKabelStdBold';
+    src: url('itckabelstd-bold_0.eot');
+    src: url('itckabelstd-bold_0.eot') format('embedded-opentype'),
+         url('itckabelstd-bold_0.woff') format('woff'),
+         url('itckabelstd-bold_0.ttf') format('truetype'),
+         url('itckabelstd-bold_0.svg#ITCKabelStdBold') format('svg');
+}

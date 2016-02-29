@@ -1,0 +1,2 @@
+[2016-02-28 21:19:13] - Table 'mcm-tkd.mcm_settings' doesn't exist - SELECT * FROM mcm_settings
+[2016-02-28 21:22:11] - Table 'mcm-tkd.mcm_settings' doesn't exist - SELECT * FROM mcm_settings

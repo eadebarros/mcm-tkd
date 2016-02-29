@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'ITCKabelStdDemi';
+    src: url('itckabelstd-demi_0.eot');
+    src: url('itckabelstd-demi_0.eot') format('embedded-opentype'),
+         url('itckabelstd-demi_0.woff') format('woff'),
+         url('itckabelstd-demi_0.ttf') format('truetype'),
+         url('itckabelstd-demi_0.svg#ITCKabelStdDemi') format('svg');
+}

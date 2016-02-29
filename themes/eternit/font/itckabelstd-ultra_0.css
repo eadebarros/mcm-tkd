@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'ITCKabelStdUltra';
+    src: url('itckabelstd-ultra_0.eot');
+    src: url('itckabelstd-ultra_0.eot') format('embedded-opentype'),
+         url('itckabelstd-ultra_0.woff') format('woff'),
+         url('itckabelstd-ultra_0.ttf') format('truetype'),
+         url('itckabelstd-ultra_0.svg#ITCKabelStdUltra') format('svg');
+}

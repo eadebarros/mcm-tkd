@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'ITCKabelStdMedium';
+    src: url('itckabelstd-medium_0.eot');
+    src: url('itckabelstd-medium_0.eot') format('embedded-opentype'),
+         url('itckabelstd-medium_0.woff') format('woff'),
+         url('itckabelstd-medium_0.ttf') format('truetype'),
+         url('itckabelstd-medium_0.svg#ITCKabelStdMedium') format('svg');
+}

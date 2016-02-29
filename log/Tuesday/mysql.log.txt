@@ -1,0 +1,254 @@
+[2014-03-11 15:41:47] - Query was empty - 
+[2014-03-11 15:42:54] - Query was empty - 
+[2014-03-11 15:44:45] - Query was empty - 
+[2014-03-11 15:45:05] - Query was empty - 
+[2014-03-11 15:45:24] - Query was empty - 
+[2014-03-11 15:45:52] - Query was empty - 
+[2014-03-11 15:46:20] - Query was empty - 
+[2014-03-11 19:32:01] - Unknown table 'servus_representantes_cidade_estado' - SELECT servus_representantes_cidade_estado.*,
+                c1.cidade,
+                c1.estado
+            FROM 
+				servus_representantes_cidade_estado c1,
+				servus_representantes_cidades_ativo c2
+            WHERE c1.id=id_cidade
+			AND 1 = id_representante
+			
+[2014-03-11 19:32:01] - Unknown table 'servus_representantes_cidade_estado' - SELECT servus_representantes_cidade_estado.*,
+                c1.cidade,
+                c1.estado
+            FROM 
+				servus_representantes_cidade_estado c1,
+				servus_representantes_cidades_ativo c2
+            WHERE c1.id=id_cidade
+			AND 2 = id_representante
+			
+[2014-03-11 19:32:01] - Unknown table 'servus_representantes_cidade_estado' - SELECT servus_representantes_cidade_estado.*,
+                c1.cidade,
+                c1.estado
+            FROM 
+				servus_representantes_cidade_estado c1,
+				servus_representantes_cidades_ativo c2
+            WHERE c1.id=id_cidade
+			AND 3 = id_representante
+			
+[2014-03-11 19:32:01] - Unknown table 'servus_representantes_cidade_estado' - SELECT servus_representantes_cidade_estado.*,
+                c1.cidade,
+                c1.estado
+            FROM 
+				servus_representantes_cidade_estado c1,
+				servus_representantes_cidades_ativo c2
+            WHERE c1.id=id_cidade
+			AND 4 = id_representante
+			
+[2014-03-11 19:32:01] - Unknown table 'servus_representantes_cidade_estado' - SELECT servus_representantes_cidade_estado.*,
+                c1.cidade,
+                c1.estado
+            FROM 
+				servus_representantes_cidade_estado c1,
+				servus_representantes_cidades_ativo c2
+            WHERE c1.id=id_cidade
+			AND 5 = id_representante
+			
+[2014-03-11 19:32:01] - Unknown table 'servus_representantes_cidade_estado' - SELECT servus_representantes_cidade_estado.*,
+                c1.cidade,
+                c1.estado
+            FROM 
+				servus_representantes_cidade_estado c1,
+				servus_representantes_cidades_ativo c2
+            WHERE c1.id=id_cidade
+			AND 6 = id_representante
+			
+[2014-03-11 19:32:01] - Unknown table 'servus_representantes_cidade_estado' - SELECT servus_representantes_cidade_estado.*,
+                c1.cidade,
+                c1.estado
+            FROM 
+				servus_representantes_cidade_estado c1,
+				servus_representantes_cidades_ativo c2
+            WHERE c1.id=id_cidade
+			AND 7 = id_representante
+			
+[2014-03-11 19:32:01] - Unknown table 'servus_representantes_cidade_estado' - SELECT servus_representantes_cidade_estado.*,
+                c1.cidade,
+                c1.estado
+            FROM 
+				servus_representantes_cidade_estado c1,
+				servus_representantes_cidades_ativo c2
+            WHERE c1.id=id_cidade
+			AND 8 = id_representante
+			
+[2014-03-11 19:32:01] - Unknown table 'servus_representantes_cidade_estado' - SELECT servus_representantes_cidade_estado.*,
+                c1.cidade,
+                c1.estado
+            FROM 
+				servus_representantes_cidade_estado c1,
+				servus_representantes_cidades_ativo c2
+            WHERE c1.id=id_cidade
+			AND 9 = id_representante
+			
+[2014-03-11 19:32:01] - Unknown table 'servus_representantes_cidade_estado' - SELECT servus_representantes_cidade_estado.*,
+                c1.cidade,
+                c1.estado
+            FROM 
+				servus_representantes_cidade_estado c1,
+				servus_representantes_cidades_ativo c2
+            WHERE c1.id=id_cidade
+			AND 10 = id_representante
+			
+[2014-03-11 19:32:01] - Unknown table 'servus_representantes_cidade_estado' - SELECT servus_representantes_cidade_estado.*,
+                c1.cidade,
+                c1.estado
+            FROM 
+				servus_representantes_cidade_estado c1,
+				servus_representantes_cidades_ativo c2
+            WHERE c1.id=id_cidade
+			AND 11 = id_representante
+			
+[2014-03-11 19:32:01] - Unknown table 'servus_representantes_cidade_estado' - SELECT servus_representantes_cidade_estado.*,
+                c1.cidade,
+                c1.estado
+            FROM 
+				servus_representantes_cidade_estado c1,
+				servus_representantes_cidades_ativo c2
+            WHERE c1.id=id_cidade
+			AND 12 = id_representante
+			
+[2014-03-11 19:32:01] - Unknown table 'servus_representantes_cidade_estado' - SELECT servus_representantes_cidade_estado.*,
+                c1.cidade,
+                c1.estado
+            FROM 
+				servus_representantes_cidade_estado c1,
+				servus_representantes_cidades_ativo c2
+            WHERE c1.id=id_cidade
+			AND 13 = id_representante
+			
+[2014-03-11 19:32:01] - Unknown table 'servus_representantes_cidade_estado' - SELECT servus_representantes_cidade_estado.*,
+                c1.cidade,
+                c1.estado
+            FROM 
+				servus_representantes_cidade_estado c1,
+				servus_representantes_cidades_ativo c2
+            WHERE c1.id=id_cidade
+			AND 14 = id_representante
+			
+[2014-03-11 19:32:01] - Unknown table 'servus_representantes_cidade_estado' - SELECT servus_representantes_cidade_estado.*,
+                c1.cidade,
+                c1.estado
+            FROM 
+				servus_representantes_cidade_estado c1,
+				servus_representantes_cidades_ativo c2
+            WHERE c1.id=id_cidade
+			AND 15 = id_representante
+			
+[2014-03-11 19:32:01] - Unknown table 'servus_representantes_cidade_estado' - SELECT servus_representantes_cidade_estado.*,
+                c1.cidade,
+                c1.estado
+            FROM 
+				servus_representantes_cidade_estado c1,
+				servus_representantes_cidades_ativo c2
+            WHERE c1.id=id_cidade
+			AND 16 = id_representante
+			
+[2014-03-11 19:32:01] - Unknown table 'servus_representantes_cidade_estado' - SELECT servus_representantes_cidade_estado.*,
+                c1.cidade,
+                c1.estado
+            FROM 
+				servus_representantes_cidade_estado c1,
+				servus_representantes_cidades_ativo c2
+            WHERE c1.id=id_cidade
+			AND 17 = id_representante
+			
+[2014-03-11 19:32:01] - Unknown table 'servus_representantes_cidade_estado' - SELECT servus_representantes_cidade_estado.*,
+                c1.cidade,
+                c1.estado
+            FROM 
+				servus_representantes_cidade_estado c1,
+				servus_representantes_cidades_ativo c2
+            WHERE c1.id=id_cidade
+			AND 18 = id_representante
+			
+[2014-03-11 19:32:01] - Unknown table 'servus_representantes_cidade_estado' - SELECT servus_representantes_cidade_estado.*,
+                c1.cidade,
+                c1.estado
+            FROM 
+				servus_representantes_cidade_estado c1,
+				servus_representantes_cidades_ativo c2
+            WHERE c1.id=id_cidade
+			AND 19 = id_representante
+			
+[2014-03-11 19:32:01] - Unknown table 'servus_representantes_cidade_estado' - SELECT servus_representantes_cidade_estado.*,
+                c1.cidade,
+                c1.estado
+            FROM 
+				servus_representantes_cidade_estado c1,
+				servus_representantes_cidades_ativo c2
+            WHERE c1.id=id_cidade
+			AND 20 = id_representante
+			
+[2014-03-11 19:32:01] - Unknown table 'servus_representantes_cidade_estado' - SELECT servus_representantes_cidade_estado.*,
+                c1.cidade,
+                c1.estado
+            FROM 
+				servus_representantes_cidade_estado c1,
+				servus_representantes_cidades_ativo c2
+            WHERE c1.id=id_cidade
+			AND 21 = id_representante
+			
+[2014-03-11 19:32:01] - Unknown table 'servus_representantes_cidade_estado' - SELECT servus_representantes_cidade_estado.*,
+                c1.cidade,
+                c1.estado
+            FROM 
+				servus_representantes_cidade_estado c1,
+				servus_representantes_cidades_ativo c2
+            WHERE c1.id=id_cidade
+			AND 22 = id_representante
+			
+[2014-03-11 19:43:21] - Unknown column 'c2.id_cidades' in 'where clause' - SELECT 
+                c1.cidade,
+                c1.estado
+            FROM 
+				servus_representantes_cidade_estado c1,
+				servus_representantes_cidades_ativo c2
+            WHERE c1.id=c2.id_cidades
+			AND c2.id_representante = 1
+			
+[2014-03-11 19:43:57] - Unknown column 'c2.id_cidades' in 'where clause' - SELECT 
+                c1.cidade,
+                c1.estado
+            FROM 
+				servus_representantes_cidade_estado c1,
+				servus_representantes_cidades_ativo c2
+            WHERE c1.id=c2.id_cidades
+			AND c2.id_representante = 1
+			
+[2014-03-11 19:44:12] - Unknown column 'c2.id_cidades' in 'where clause' - SELECT 
+                c1.cidade,
+                c1.estado
+            FROM 
+				servus_representantes_cidade_estado c1,
+				servus_representantes_cidades_ativo c2
+            WHERE c1.id=c2.id_cidades
+			AND c2.id_representante = 1
+			
+[2014-03-11 19:44:25] - Unknown column 'c2.id_cidades' in 'where clause' - SELECT 
+                c1.cidade,
+                c1.estado
+            FROM 
+				servus_representantes_cidade_estado c1,
+				servus_representantes_cidades_ativo c2
+            WHERE c1.id=c2.id_cidades
+			AND c2.id_representante = 1
+			
+[2014-03-11 19:44:36] - Unknown column 'c2.id_cidades' in 'where clause' - SELECT 
+                c1.cidade,
+                c1.estado
+            FROM 
+				servus_representantes_cidade_estado c1,
+				servus_representantes_cidades_ativo c2
+            WHERE c1.id=c2.id_cidades
+			AND c2.id_representante = 1
+			
+[2014-03-11 21:10:57] - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 - INSERT INTO servus_compra SET 
+[2014-03-11 21:11:09] - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 - INSERT INTO servus_compra SET 
+[2014-03-11 21:12:01] - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 - INSERT INTO servus_compra SET 
+[2014-03-11 21:12:31] - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 - INSERT INTO servus_compra SET 
